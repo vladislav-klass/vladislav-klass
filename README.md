@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vladislav Klass
 - 👀 I’m interested in AI and Backend Engineering
 - 📫 vladislav.klass@cdtm.de
-- 🔗 Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/vladislav-klass-aa7b6618a/))
+- 🔗 Connect with me on LinkedIn (https://www.linkedin.com/in/vladislav-klass-aa7b6618a/ ) 
