@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @vladi315
-- 👀 I’m interested in Robotics, Computer Vision, NLP & AI...
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on application of Robotics and Computer Vision
-- 📫 vladislav.klass@tum.de
+- 👋 Hi, I’m Vladislav Klass
+- 👀 I’m interested in AI and Backend Engineering
+- 📫 vladislav.klass@cdtm.de
